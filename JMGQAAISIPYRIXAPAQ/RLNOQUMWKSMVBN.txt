@@ -1,0 +1,342 @@
+This page doesn't clearly explain what a bug is or why anyone would care.
+
+When a computer program doesn't work right, that's a bug. It could be design error or coding error, but the user doesn't know or care about this distinction. The answers are coming out wrong, or a feature just plain won't work.
+
+We could list typical causes of bugs, as well as remediation efforts or strategies to prevent bugs arising in the first place.
+
+Most people have a strong knowledge of what a bug is. It is one phenomenon, where if you see a broom, you know it's a broom. However, rules of Wikipedia are strict - no original research or opinions. Therefore, (ignoring that it should be a dictionary rather than a wikipedia entry) you cannot place an entry "broom" into Wikipedia unless you reference a book (or dictionary) describing what a broom is. (But then Google set up Knol as alternative to solve the issue).
+In my less than humble opinion, a bug is either one or more of
+An intended feature with clearly obvious unintended or misbehaving results.
+An unintended feature that does not behave desirably.
+An unintended feature that unexpectedly provides a behaviour 80% of users have been clamouring for, but the other 20% dislike the behaviour.
+An intended feature that behaves as expected, but the intended behaviour causes serious problems because the bug was started by architects at the planning stage.
+An undesirable or unintended feature, on which the architects and programmers backpedal and document as a feature.
+An intended feature, but expectation changed as the years went by and is now no longer a desirable behaviour. Architects and programmers prefer to define these as "needs for enhancement" and would not classify it as a bug. Regardless, a user knows a bug when he/she sees one.
+a bug is usually a defect occurs in the application and those has been accepted by the developer —Preceding unsigned comment added by 122.165.221.182 (talk) 10:31, 25 August 2010 (UTC)
+Therefore architects, programmers and users do not concur on what a bug is. However, in any event any uprising rebellion by users is successful - a bug is simply a feature a user does not want or no longer wants because the feature is bugging the user.
+Hence Jewish Anderstein (talk) 09:55, 28 September 2008 (UTC)
+I pretty much agree. See my rant below. How this article has survived so long amazes me. Softtest123 (talk) 03:37, 15 May 2012 (UTC)
+I also agree that a bug can be intentional. Unlike a glitch, which is always unintended by the devloper(s), a bug is defined by the end users. Therefore, a developer's opinion or intentions are irrelevant. The, "That's not a bug. That's a feature" argument has always frosted my bum like a three-foot snow cone. That would be like if someone says, "When you tripped and fell, you accidentally stabbed that woman to death," and I responded with, "That wasn't an accident. I killed her on purpose." It just drives me crazy that developers would sit there and tell you with a straight face that they intended to annoy you, and they're not going to change it because annoying you is exactly what they wanted to do. The correct response would be, "I'm sorry. I thought that would be a feature you'd like. I'll fix that bug as soon as possible." I'm also pretty sure that, with the exception of software developers, this is a unanimous opinion.76.29.225.28 (talk) 16:36, 18 August 2013 (UTC)
+NOT the moth
+The moth was definitely NOT the origin of the term bug. If you read Grace Hopper's log carefully, you will see the following points: 1. She wrote "The first actual case of bug being found" which implies that at the time of the writing, they knew of many other cases of bugs that were not actual. 2. i.e. the term "bug" was in use before this moth was found. 3. If the term was really based on some kind of insects, then, this moth would not be first. Kowloonese 21:13, 8 Dec 2003 (UTC)
+
+More than likely debugging dates back to Chimpanzees removing lice from their troop or Cromagnon doing likewise. —Preceding unsigned comment added by TheRook (talk • contribs) 18:35, 6 May 2008 (UTC)
+
+That may be where the word comes from - but a SOFTWARE bug is a very different matter. Why is it "debugging" and not "error removal" or "problem solving"? Where did the image of an insect as relating to a programming error come from originally? Why a "bug" and not a "rat" or a "pimple" or a "bacterium"...why not some other imagery of an undesirable thing? SteveBaker (talk) 02:02, 7 May 2008 (UTC)
+Moth date is wrong
+The date given for the Mark II moth is wrong. It should be 1947, not 1945. Note that in the first line of the quoted section, it says "n 1946, when Hopper was released from active duty...", yet in the last line of that quote it's saying 1945 -- the previous year! Also, if you follow the link to the actual log page, it gives the date as 1947.
+
+I've corrected this date. T-bonham 21:38, 23 July 2007 (UTC)
+
+The year is also wrong in the Description and Date in the page containing the image of the famous moth, File:H96566k.jpg. These errors were apparently copied over from Wikimedia Commons. These also need to be fixed, but I don't see how to edit them. HairyWombat (talk) 19:53, 15 July 2009 (UTC)
+How can the date be wrong? The written attribution is to 1945, but it is correctly identified in the article as being 1946. This is an example of a bad bug report: you don't identify where the date is indicated as being wrong, nor do you suggest what the correct date should be. --Walter Görlitz (talk) 20:52, 15 July 2009 (UTC)
+As I state, it is wrong in the Description and Date of File:H96566k.jpg. These state 1945 and, as this article correctly points out, they should be 1947. I mentioned it here only because I can't see how to fix File:H96566k.jpg and this page will have a lot more traffic than File:H96566k.jpg. HairyWombat (talk) 15:14, 18 July 2009 (UTC)
+Earlier usage
+Just in case anyone wants an example of an earlier usage of the term bug, here's a quote from Edison:
+
+"I have the right principle and am on the right track, but time, hard work and some good luck are necessary too. It has been just so in all of my inventions. The first step is an intuition, and comes with a burst, then difficulties arise -- this thing gives out and [it is] then that "Bugs" -- as such little faults and difficulties are called -- show themselves and months of intense watching, study and labor are requisite before commercial success or failure is certainly reached."
+
+(Edison to Puskas, 13 November 1878, Edison papers, Edison National Laboratory, U.S. National Park Service, West Orange, N.J., cited in Thomas P. Hughes, American Genesis: A History of the American Genius for Invention, Penguin Books, 1989, on page 75) --Fastfission 10:56, 21 Feb 2004 (UTC)
+
+still earlier (than Edison's) usage
+There are several references to bug in the modern sense in Victorian Internet by Tom Standage. probably where Edison came across it anyway, since he started out as a telegraph operator. I think this article ought to include at least a pointer to them...
+
+It would be great if you could give us a quote or two from the book. I don't have it myself. --Apoc2400 08:19, 21 November 2006 (UTC)
+Mars Climate Orbiter mishap
+The explanation for the Mars Climate Orbiter mishap is wrong. It was not about confusing meters and yards. The quantity in question was impulse, not length. The report on the mishap states that the expected unit was Newton-seconds while the delivered data was pound-seconds.
+
+This does present a problem though because length is easy to grasp for the public while impulse is a fairly unknown quantity. The concept of meters/yards is well known, Newton-seconds isn't.
+
+Suggestion: let the text "failed to convert yards to meters" instead be: "failed to convert from imperial to metric units"
+
+-- J-Star 22:33, 11 Aug 2004 (UTC)
+
+Patriot "bug"
+The link to MIM-104 Patriot indicates that the failure in Dharan was caused by a computer bug. There's no corresponding text in MIM-104 Patriot. If there's any support for this theory, it should be added to Patriot article. Otherwise the link should be deleted.---Isaac R 01:22, 28 Apr 2005 (UTC)
+
+The two articles are now linked. Search for "software error" in MIM-104 Patriot. - Bevo 22:49, 8 Jun 2005 (UTC)
+This article says that 28 deaths were caused by the Patriot bug, but pedantically, weren't the deaths caused by a scud missile and the team responsible for firing it? At worst, the Patriot system can be accused of ...through inaction allowing humans to be harmed... Ojw 19:06, 30 July 2005 (UTC)
+Operating system bias
+There were some disgraceful examples of operating system bias in the "modern bugs and security holes" section. Please, let's leave out our preferences and opinions and state the facts. Every operating system is vulnerable to viruses and security holes, not just WINDOWS. Please give us a break. The section even tried to say that Linux's "Kernel Panic" was only some kind of mythology and isn't really needed because Linux NEVER crashes! And don't forget that closed-source software is out to destroy humanity.
+
+Well, Linux has crashed and crashes much less often than Windows. Furthermore, the desing of Linux and of the other Unix allows them to resist to viruses better than Windows.
+
+Bug examples are becoming irrelevant
+There are links to Star Trek episodes that don't have any berring on bugs or defects and all of the video game links are to the products themesleves not to defects found in them. Unless someone can link to sepefic bugs, don't put a link there. I will check back shortly and remove these links if they are not fixed. Walter Görlitz
+
+I'm starting to remove the irrelevant. Complain loudly if you want, but keep the discussion to how the bugs were created and how they serve to teach us not to create new bugs in the future, not things that annoy you.
+
+Bullcrap
+"but open source software has the advantage of having a community of qualified developers to work on and improve software (and fix bugs)" That is the fallacy of many eyes; that is, nobody really knows if the guy who worked on it really was qualified at all. BS.
+
+Again, I removed it. Don't put it back in without discussion here on the statement's validity. DoomBringer 18:04, 21 September 2005 (UTC)
+Could be mentioned in terms of debugging or software testing. It's generally accepted that the more people test a piece of software, the more likely it is that a bug will be found (although no one says it's a linear function). --Uncle Ed (talk) 16:44, 30 November 2011 (UTC)
+Even Earlier?
+I once heard that Shakespeare is supposedly the earliest recorded use of the 'bug' in this way. Can anyone confirm if this is true?
+
+TheOddMan
+
+
+In "Writing the laboratory Notebook" (ISBN 0-8412-0906-5), the author Howard Kanare also relates the moth story and says: "The term bug was already in common use to connote problems in electrical and mechanical systems before this time. It came from the Welsh term bwg, meaning a bugbear or hobgoblin."
+
+sblatt
+
+
+This needs a little editing. Under "Etymology", the sentence "Problems with radar electronics during World War II were referred to as bugs (or glitches), and there is additional evidence that the usage dates back much earlier" follows an example of an earlier usage. Move this up to show a reverse chronolgy and it will read easier. I'll leave this to the editors. Greenbomb101 (talk) 18:57, 21 April 2009 (UTC)
+
+By the way, it is quite funny to note that even if the text correctly debunks the myth of the first bug discovered by Grace Hopper, the description of the picture associated with it still describes it as the origin of the expressions "bug" and "debug". —Preceding unsigned comment added by Eforler (talk • contribs) 16:47, 23 November 2009 (UTC)
+
+Computer vs. Software Bug
+If a bug is something in software that causes a program to run incorrectly, why is this page at "computer bug" instead of "software bug"? "Computer bug" seems to imply there is something wrong with the hardware, not the software running on it. What does everyone else think? — Frecklefoot | Talk 20:58, 29 September 2005 (UTC)
+
+Makes sense, since this article seems to be about coding errors, not hardware malfunctions (except for the real bug, but that's an anecdote). Shinobu 00:35, 30 September 2005 (UTC)
+Done. This has created a number of double redirects. Any help in fixing would be greatly appreciated. :-) — Frecklefoot | Talk 20:34, 3 October 2005 (UTC)
+
+Driv3r most bugged game of all times
+Hi, I saw this game on the list of Video Games bug list, but I haven't seen any citations about this. Is there anyone?
+
+CDO
+
+Too narrow?
+The definition of 'bug' given here is programming centric. This is fine, so long as we have a more general term, 'defect' say, for errors that can occur during requirements, analysis, or design. However, a search on 'defect' (and several synonyms) fails to retrieve any information on software.
+
+If anyone can point me in the right direction, I'd be grateful. —The preceding unsigned comment was added by MellorSJ (talk • contribs) .
+
+We clearly need a more-generic article on digital defects that can somehow subsume all of hardware, firmware, and software bugs and probably also specification bugs. Maybe one already exists? Does anyone know?
+Atlant 16:44, 10 July 2006 (UTC)
+I second this. Also, the implication on this page is that all bugs are caused by programming or design error. In many cases, it is simply design oversight: a permutation of events that no-one had anticipated.
+Any software of non-trivial complexity has bugs. It's not because all programmers are cowboys but because how could you possibly design software that always performs the ideal action for every possible permutation of inputs / data?
+--77.44.77.44 (talk) 14:51, 21 July 2008 (UTC)
+I find this article particularly egregious. The term "Bug" is so broad as to defy specific definition. Substantial effort has been applied to the standardized definitions of "defect", "fault", "failure", "symptom", etc., to make a separate definition of "bug" useless. I agree that this article is a (poorly worded) definition and belongs in a dictionary, not an encyclopedia. Some statements in this article such as "...usually because different parts of the computer system operate at different speeds." and "For example, formal program specifications are used to state the exact behavior of programs,..." are erroneous and the text generally is unsubstantiated. In a word, "Buggy." -- Softtest123 (talk) 03:26, 15 May 2012 (UTC)
+Added section on programming style
+I added a bullet on programming style under the "Prevention" section.
+
+Good programming style is after all our first line of defence, and typos are the first and I strongly suspect, the most common cause of bugs. I feel that the role played by uncaught typos doing things like throwing off the program flow is somewhat underplayed elsewhere on the page - they aren't mentioned at all in the "types of bugs" section, for instance. All the bugs listed are methodological bugs: flaws in the reasoning of the programmer, rather than in his fingers.
+
+However, while these are critical concepts in programming, I'm unsure if that section should be there, or if it should just be a brief mention here, and a new section created in programming style, called something like "bug avoidance". Or link to defensive programming and bulk up the [potential bugs] section? Thoughts? DewiMorgan 01:58, 11 November 2006 (UTC)
+
+In the end I greatly reduced the programming style section that I added here right down, and added links to programming style and defensive programming. I will stick the bulk of the stuff I previously added here to the "programming style" page, and probably add a note to "defensive programming" page too. DewiMorgan 14:47, 10 May 2007 (UTC)
+Added code analysis on prevention
+Code analysis and even compiling was overlooked as a bug prevention tools. IMHO exception handling happens at runtime and therefore is not prevention. 203.20.238.2 (talk) 07:27, 14 November 2008 (UTC)
+
+Known Bugs
+Buffer overflow was listed three times with different wording. Please don't add to this unless you have written code. I agree there should be a section for known bugs, because this tiny list is just the tip of the ice burg. —Preceding unsigned comment added by 24.121.216.47 (talk) 01:47, 25 January 2008 (UTC)
+
+There should be a section about the meaning of known bugs. You can find them in many big software projects and they are not fixed, because they are not severe and chances are that you will create a new bug if you fix this one.
+
+I might create this section somewhen on my own, but I don't have time for that now. Maybe somebody likes the idea and is faster than me. --JonnyJD 23:20, 2 May 2007 (UTC)
+
+Well, there are many reasons for a known bugs list in software projects. Most of them are just TODO lists or information on bugfixes in upcoming updates. Most of them don't need to be mentioned in an extra section in this article. I can't find good sources for my point and this problem seems widely unknown. I don't create a section for the sake of WP:NOR. It is not my own idea and I already learned it that way, but it is not widely accepted or known. --JonnyJD 23:06, 3 May 2007 (UTC)
+
+[Be Bold]. Add the section and let it be shot down, rather than proposing a section and letting the proposal die from being ignored. I will add the section: please do tweak it, boldly. DewiMorgan 14:51, 10 May 2007 (UTC)
+
+done --JonnyJD 16:52, 10 May 2007 (UTC)
+nicely done! DewiMorgan 22:28, 14 May 2007 (UTC)
+Thanks this now I know what bugs are --Andersmusician $ 16:41, 19 June 2007 (UTC)
+Bug Statuses
+I think this article needs to list "Status" of bugs, which are provided by bugzilla and other bug reporting software.
+
+Blocker
+Major
+Minor
+Trivial
+Enhancement
+Is a short list. Explanations should be added for each as well. --99.154.3.248 (talk) 16:25, 18 March 2008 (UTC)
+
+"Bug" defined in 1892.
+The book "THE STANDARD ELECTRICAL DICTIONARY" by T. O'CONOR SLOANE, published in 1892 contains these two entries:
+
+Bug. Any fault or trouble in the connections or working of electric apparatus.
+
+Bug Trap. A connection or arrangement for overcoming a "bug." It is said that the terms "bug" and "bug trap" originated in quadruplex telegraphy.
+
+These do not predate the 1878 Edison quote, but they do indicate the term was in widespread use by 1892. —Preceding unsigned comment added by Drifter99 (talk • contribs) 00:10, 23 August 2008 (UTC)
+
+Bug on the bug page
+Doesn't validate under XHTML 1.0 Transitional DocType due to an ID misnaming error. --69.125.25.190 (talk) 07:00, 16 November 2008 (UTC)
+
+No, the article validates fine. However, the Talk page doesn't. To be honest, this is not something I am going to lose sleep over. HairyWombat (talk) 18:02, 13 August 2009 (UTC)
+Later. Reported it to Bugzilla. HairyWombat (talk) 19:11, 13 August 2009 (UTC)
+SPAM link
+The link to "Bug Tracking Basics: A beginner’s guide to reporting and tracking defects (Mitch Allen)" merely leads to a book store. The link does not provide any further information on the topic itself.--213.39.136.30 (talk) 23:59, 9 June 2009 (UTC)
+
+What are you going on about? The link takes you to StickyMinds, which is not a bookstore, it's a software testing and development portal. When I added the link, the article was available to all registered users. It's now PowerPass user-content. If you have May/Jun 2002 (Vol. 4, Issue 3) edition of Better Software magazine, as I do, you can also read it. It's not SPAM, and you don't have a user account. Get one. --Walter Görlitz (talk) 00:25, 10 June 2009 (UTC)
+Hopper's moth
+It's a cute story, but only of minimal relevance to this article. Grace Hopper simply pasted a moth into a log book as a kind of joke. Whether the bug caused a hardware problem or not is sort of interesting, but this article is not about computer hardware. Story should be a section in another article, like her bio. --Uncle Ed (talk) 19:20, 1 January 2012 (UTC)
+
+It's not just a cute story. It has been handed-down as the story of where the term originated. The hardware bug caused a defect in the program and so makes perfect sense in this article. If you would rather make the discussion about all defects, feel free to move the article and all links to it. --Walter Görlitz (talk) 19:25, 1 January 2012 (UTC)
+And since you see that computer bug redirects here, not sure we should keep the article at software bug but perhaps move it to Bug (computer term). --Walter Görlitz (talk) 19:27, 1 January 2012 (UTC)
+I have already started work on Computer bug, which will reference both software bug and hardware bug. I don't think that Bug (computer term) refers mainly to software bugs. For example, my own laptop computer periodically goes into a mode where its operating system makes it difficult for the user to change windows with the mouse. It's caused by a hardware defect, wherein repeated keystrokes are rapidly produced; to make a long story short, I have to take out the battery and do a hard reboot. I don't think Dell or Microsoft would call this a software error, but it's certainly a design flaw in the computer.
+Let's discuss the scope of bug more, and figure out how to organize the articles. --Uncle Ed (talk) 20:22, 1 January 2012 (UTC)
+Sure. I mostly monitor for vandalism so I'll let some of the other watchers contribute. --Walter Görlitz (talk) 20:57, 1 January 2012 (UTC)
+The bug (which, by the way, someone else found) was in a relay; that's a mechanical part. Not only that, but a "hardware bug" would be generally be a design fault. Anyway, not a software bug, even if the moth caused the relay to malfunction so that the program produced incorrect results.
+
+I think what makes the story so charming is that it is not meant literally but was a light-hearted inside joke. The term "bug" had already been used by Bob Campbell (according to Howard Aiken) and even earlier by Tom Edison.
+
+Can we work together on this? --Uncle Ed (talk) 20:13, 1 January 2012 (UTC)
+
+Mistake metamorphism
+This terminology, "Mistake metamorphism," may well be appropriate, but is not particularly an accepted term. This author cites his own publication as a reference. If the term is accepted by further citation of this authors work, then it may be a appropriate section of this article. Otherwise this section should be deleted. Softtest123 (talk) 03:05, 15 May 2012 (UTC)
+
+I agree with deletion, and will delete it. JW ||| Talk 17:41, 30 May 2012 (UTC)
+Hold off on that deletion because I have found some indication that "Mistake metamorphism" may be a term previously published and possibly copied here. I don't have a copy of Ian Sommerville's Software Engineering (9th Edition) where I think this was copied from. This is a short quote and may be "fair use" if properly cited. Softtest123 (talk) 19:16, 7 June 2012 (UTC)
+I'd also vote for deletion; even if previously published (which I have no evidence for) the term isn't even remotely common and the section does not seem to add any value. Worse, it give the impression that there is some sort of overarching synthesis relating a laundry list of terms without giving the faintest indication what that might be. It's the sort of word salad that just screams "spam!". MarkusQ (talk) 05:22, 13 August 2012 (UTC)
+Have you checked Summerville 9th Ed? I would consider this a relevant authority for inclusion if properly cited; otherwise I agree. As I mentioned, I don't have access to Summerville. Softtest123 (talk) 14:08, 14 August 2012 (UTC)
+"First actual case of bug being found" later addition to logbook?
+I don't generally edit wikipedia so I'm just leaving a note here for those who might consider making a decision, but poking around the web on the history of the "computer bug" terminology and the story of the moth in the Mark II I found a source claiming that the notation "First actual case of bug being found" was actually added to the logbook considerably later than 1947, probably in 1979. I have no idea of the reliability of the source, but this interview with the Dahlgren Navy Base retiree who eventually gave the logbook to the Smithsonian claims that the note was added to clarify the historical record at the request of Ralph Niemann, head of the Strategic Systems Department at Dahlgren and one of the mathematicians who originally accompanied the Mark II to the naval base. http://fredericksburg.com/News/FLS/2012/052012/05242012/701244 — Preceding unsigned comment added by 209.6.65.74 (talk) 03:06, 21 February 2013 (UTC)
+
+Software Defect vs Software Bug
+In my opinion, there is a difference between defects and bugs. A defect is a failure in a system to meet certain requirements (whether they are non-existing in a system, or bugged and don't perform like they should), while a bug is more specific the failure of existing features, and can't be used to describe the absence of a feature. Yet many pages link to this Software Bug page, while the meaning is actually a defect. Examples of such pages are the pages describing bug tracking systems, like Mantis.
+
+I think it would be good to create a defect page, to prevent a loss of information (or even giving a wrong impression that a defect is equal to a bug) when linking from pages describing a defect.
+
+Please let me know if you think this definition I provided is wrong, I found a bug defined both as 'a defect in software'(dictionaries) and a 'error or fault in software' (this article defines it like this), the latter supporting this suggestion, the former contradicting it. Maybe we should first clearly define what we consider a bug, keeping in mind above suggested change, then talk about this change afterwards.
+
+213.224.2.142 (talk) 08:19, 12 June 2013 (UTC)
+
+Thank you for your opinion. They're not different according to reliable sources. If you can provide a reliable source to support your opinion, feel free to. Walter Görlitz (talk) 14:21, 12 June 2013 (UTC)
+Would the IEEE Computer Society Software Engineering Body of Knowledge be considered a "reliable source"? This carefully differentiates a "defect" or "fault", which is what is wrong with the program, the "error", which is the departure of the computation from the correct result and a "failure", which is the observable outcome that differs from the stated intent. In my experience, the use of the ill-defined term "bug" indicates that the speaker / writer has a poor understanding of software quality and at best jumbles these concepts up together and at worst wants to create the impression that bugs are inevitable so let's not go looking for root cause. I think it's shameful that Wikipedia even has a page on "Software bug". 96.89.230.33 (talk) 19:13, 6 September 2017 (UTC)
+It would, but in my experience, the use of the over-defined terms indicates that the speaker is being overly pedantic rather than trying to communicate ideas, but yes a link to the IEEE glossary would be acceptable. And for the record, Wikipedia tends to use WP:COMMONNAMEs wherever possible. Walter Görlitz (talk) 19:40, 6 September 2017 (UTC)
+Edison Movie reference - 1940
+I just heard a bug reference in the movie - Edison, The Man (1940) [1] - towards the end of the movie when Edison determines that his two dynamos have a problem because the speed governors were not synced until he mechanically linked them.
+
+His first erroneous attempt caused the dynamos to act as a motor/generator combo until the governors were mechanically linked. He wanted the dynamos to work as parallel generators. In the movie, Spencer Tracy distinctly used the term "bugs" for this problem when he first attempted to light up New York City.
+
+Granted, this is a movie. But the term "bug" was obviously used during Edison's invention period for mechanical design issues that needed to be resolved and thus included in the movie. Re-quoting the previous Edison quote - ["Bugs" — as such little faults and difficulties are called]. And the movie itself is from 1940, which is earlier than when it was first used for software. It seems likely that "bugs" was an engineering term before it made it into software. — Preceding unsigned comment added by 99.189.8.211 (talk) 03:22, 25 January 2014 (UTC)
+
+That's great. We already have a source that supports Edison's use of the term in 1878. Walter Görlitz (talk) 03:29, 25 January 2014 (UTC)
+References
+
+ https://en.wikipedia.org/wiki/Edison,_The_Man
+Bug triage section - can we work on this as a group to improve it this week?
+Hi, I am currently overviewing a bug tracker (mantis) for the software project I am a community manager for. We are discussing setting up a triage system. We use MantisBT. I really needed info on this but the wiki area for it is prettey bad and has two warnings also https://en.wikipedia.org/wiki/Software_bug#Bug_management
+
+I would like to work on this, is anyone free in the next few days to pull something together colabaritivley? We could use my project IRC to meet, or something else.
+
+Thanks
+
+Anna — Preceding unsigned comment added by Missannafjmorris (talk • contribs) 15:48, 24 September 2014 (UTC)
+
+Bug tracking versus issue tracking
+The bug tracking section seems to have morphed over time to include issue tracking content. Both JIRA with the JIRA Agile plug-in and Bugzilla with several different Agile plug-ins, listed here, allow the addition of user stories and even epics to pure defect tracking tools. I see no need to exclude that information and pass them off as generic "issue tracking" tools. While they're not bugs, they're in bug tracking software. They're also not issues either. Walter Görlitz (talk) 00:49, 30 November 2014 (UTC)
+
+You don't need the JIRA Agile plugin or a Bugzilla agile plugin to track non-bugs in JIRA or Bugzilla. In JIRA they are just different types of issues (so JIRA is an issue-tracking system), and in Bugzilla and other "bug trackers", they can be given a severity of "enhancement". If you look at the JIRA article, you will see that it is described as an issue-tracking system in the lead, not as a bug-tracking system. The article Issue tracking system gives the impression that issue tracking systems are mainly used for tracking support tickets. However, in the context of software development projects, that's obviously not true.--greenrd (talk) 07:16, 30 November 2014 (UTC)
+2001 reference
+Is it really necessary for both references to 2001: A Space Odyssey to mention the year (1968)? It's well-known that the novel and movie script were written concurrently, with feedback in both directions, so surely giving the year in both cases is redundant. — Korax1214 (talk) 15:11, 15 September 2015 (UTC)
+
+For what it's worth, I'd guess that more than 90% of people reading this article will not know that piece of information. Korny O'Near (talk) 16:03, 15 September 2015 (UTC)
+External links modified
+Hello fellow Wikipedians,
+
+I have just modified one external link on Software bug. Please take a moment to review my edit. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit this simple FaQ for additional information. I made the following changes:
+
+Corrected formatting/usage for http://www.nist.gov/public_affairs/releases/n02-10.htm
+When you have finished reviewing my changes, please set the checked parameter below to true or failed to let others know (documentation at {{Sourcecheck}}).
+
+☑ An editor has reviewed this edit and fixed any errors that were found.
+
+If you have discovered URLs which were erroneously considered dead by the bot, you can report them with this tool.
+If you found an error with any archives or the URLs themselves, you can fix them with this tool.
+
+Cheers.—cyberbot IITalk to my owner:Online 10:31, 2 April 2016 (UTC)
+
+The static view
+A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways. Most bugs arise from defects in a program's source code, its design, or in components and operating systems used by such programs. Defects arise from mistakes, errors, and oversights during the process software development or system deployment. Some bugs arise from the tooling used to create the software, such as compiler defects leading to incorrect code generation. A program that contains a large number of bugs, and/or bugs that seriously interfere with its functionality, is said to be buggy (defective).
+
+All serious software developers know in their heart of hearts that the word "bug" is an industry-standard euphemism, and always has been. I was joking with my wife that Freud also had a theory of software defects, but considered it too contentious to discuss in public. The reason "bug" is a euphemism is that it invokes two metaphorical frames: The best laid schemes o' Mice an' Men, / Gang aft agley, and Whac-a-Mole anthill culture, which somehow software developers like to imagine (ego defense) as some kind of glorious OODA loop, notwithstanding the curse of dimensionality (note how the machine learning people actually talk about the CoD as a real thing; it sure helps that recurrent neural network bypass about what actually amounts to "correct" (the ultimate get-out-of-jail-free card for the fragile ego).
+
+Those who actually take eliminating defects seriously (validation and proof communities) prefer the term "defect" over "bug". To put this on a highly reductive footing: functional programming has defects (a steady trickle), while imperative programming has bugs (in copious flow).
+
+In my mind, contrary to the founding metaphor bugs mainly arise from defects (no, I'm including in the category of software defects neither lack of a better screen door, nor an adhesive duck deficiency). To my mind, a bug is a defect on the hoof. In imperative programming, one engages in wild, out-of-control hay rides around the haystack full of needles far more often than in functional programming (whereas in functional programming, one declares at mid-morning coffee break, "well, that's a wrap for program correctness; damn shame about the wall clock").
+
+I realize this page is called "software bug", but we all know (since Brazil at least) that this is largely a historical in-joke. These were always defects, in the same way that proofs have flaws, but not bugs (some of these 'flaws' persisted for centuries, for example, as mathematicians were slow to realize that Euclidean geometry had come to a permanent fork in the road; physics is even more prone to bugs/defects/flaws that are closer to wailing walls than any of the aforementioned terms—see renormalization and quantum gravity). If we were going to map software engineering onto geometry, defects would be the Euclidean geometry, and bugs would be the non-Euclidean geometry (ascendance of the "bug" terminology notwithstanding).
+
+So my larger point is that we shouldn't let an accidental nomenclature shift the balance of this article more than necessary. The defect exists in the artifact, and the bug exists in the system of the artefact (whether this is the system of its specification, the system of its construction, or the system of its subsequent behaviour). The vast majority of bugs arise from tangible defects of workmanship.
+
+I noodled on the lead thinking I could address this quickly, but then I thought I didn't want to post that change live, so I decided instead to abandon my noodle to the talk page of posterity.
+
+Bottom line: is this a dictionary or an encyclopedia? You be the judge. — MaxEnt 19:10, 13 May 2017 (UTC)
+
+Wikipedia is not a dictionary, but it requires verifiable sources to make changes. Feel free to include those. Walter Görlitz (talk) 05:32, 15 May 2017 (UTC)
+"Hardware bug" redirect page
+As far as I know, a hardware bug is not the same as a software bug, but "hardware bug" still redirects to this page. Is this an error? Jarble (talk) 06:41, 18 September 2017 (UTC)
+
+Doesn't seem to be. @Atlant: created the page that way. You'd have to ask that editor why. If you have sufficient content for a hardware bug article, you could start to write it now. Walter Görlitz (talk) 07:16, 20 September 2017 (UTC)
+The redirect was created when the world (or at least Wikipedia) was still young. For all I can remember, this page may have been titled something like "Bug (Computer)" at the time in which case the redirect would have made perfect sense. (And if that's so, then renaming this page effectively created a bug. ;-) ) In any case, if anyone wanted to write a "Hardware bug" article, I wouldn't object but such an article ought to have a much larger scope than just computers/IT. After all the Space Shuttle Challenger was effectively brought down by a hardware bug. Atlant (talk) 12:11, 27 October 2017 (UTC)
+So what should we do? Delete the redirect and leave it as a dead-end? Point it somewhere else? Start a new article on the topic? Walter Görlitz (talk) 14:30, 27 October 2017 (UTC)
+The Computer bug article was converted into a redirect in 2013. I'd like to see it come back. Hardware bug can redirect there instead. 20:33, 19 December 2017 (UTC) — Preceding unsigned comment added by Faught (talk • contribs)
+The questions are, first, when most people think of a "computer" bug, do think of it as a software bug or a hardware bug? I don't have any metrics to help answer that question, but I don't think of a computer bug as a hardware one. ::::: Second, we currently don't even have hardware bugs in here, although some of the "well-known bugs" and the bugs in culture are hardware-related. What exactly would we populate the article with. I can see a split if there were enough content to sustain two articles. Walter Görlitz (talk) 20:46, 19 December 2017 (UTC)
+I see "computer bug" as covering both hardware and software bugs. The article can point to the software bug page, and also cover hardware bugs until there's enough material to warrant a separate hardware bug article. Otherwise, if you want hardware and software bugs all on the same page, let's rename this one as "Computer bug" and add the beginning of a section on hardware bugs. Faught (talk) 20:55, 19 December 2017 (UTC)
+Sure, we can move this article to computer bug instead until we need to split it. Is that a better idea? Walter Görlitz (talk) 21:35, 19 December 2017 (UTC)
+I think that would be a worthwhile improvement Faught (talk) 21:59, 19 December 2017 (UTC)
+In the haste to be pedantic about hardware and software, what is being lost is the fact that the hardware/software distinction isn't nearly as old as the computer, and that some of the early examples that are being deleted because they are "hardware bugs" involved early computers that were programmed by rewiring the hardware.
+
+Plus, and I shouldn't have to explain this, when your change is reverted, you need to leave it alone and discuss it on the article talk page. Hitting the revert button and then opening up the discussion is disruptive behavior that can result in a block. When in doubt leave the page the way it was before the content dispute. See WP:BRD and WP:TALKDONTREVERT for details. --Guy Macon (talk) 16:36, 18 September 2018 (UTC)
+
+I think the distinction between hardware and software was generally as clear 70 years ago as it is now. If it involves moving around wires, it's hardware. Korny O'Near (talk) 16:41, 18 September 2018 (UTC)
+You are wrong. See Plugboard#Early computers. --Guy Macon (talk) 16:59, 18 September 2018 (UTC)
+It might have been programmed, but it wasn't software. Korny O'Near (talk) 17:14, 18 September 2018 (UTC)
+Korny, please identify the following as hardware or software.
+
+(If you have trouble, I can tell you the exact compiler used).
+
+
+  1 -------------------------------------------------------
+  2 -- Design Name : Code for Korny O'Near to identify
+  3 -- File Name   : [obfuscated]
+  4 -- Function    : Hardware? Or Software?
+  5 -- Coder       : [obfuscated]
+  6 -- Translator  : [obfuscated]
+  7 -------------------------------------------------------
+  8 library ieee;
+  9     use ieee.std_logic_1164.all;
+ 10     use ieee.std_logic_unsigned.all;
+ 11 
+ 12 entity u_c is
+ 13     port (
+ 14         cout   :out std_logic_vector (7 downto 0); -- [obfuscated]
+ 15         enable :in  std_logic;                     -- [obfuscated]
+ 16         clk    :in  std_logic;                     -- [obfuscated]
+ 17         reset  :in  std_logic                      -- [obfuscated]
+ 18     );
+ 19 end entity;
+ 20 
+ 21 architecture rtl of u_c is
+ 22     signal count :std_logic_vector (7 downto 0);
+ 23 begin
+ 24     process (clk, reset) begin
+ 25         if (reset = '1') then
+ 26             count <= (others=>'0');
+ 27         elsif (rising_edge(clk)) then
+ 28             if (enable = '1') then
+ 29                 count <= count + 1;
+ 30             end if;
+ 31         end if;
+ 32     end process;
+ 33     cout <= count;
+ 34 end architecture;
+
+--Guy Macon (talk) 15:57, 2 November 2018 (UTC)
+
+Good thing this article is on my watchlist! This is an odd question to ask. If it's written out in text, it's software. Is it used to generate hardware, like VHDL or something? Probably. But that's not the same thing. Korny O'Near (talk) 17:13, 2 November 2018 (UTC)
+It is both. It is a software program that a person wrote, fed into a VHDL compiler (Which is a dataflow programming language), which eventually instructed a wafer fab to produce hardware. A similar example is a numerical control program that tells machine tools how to make hardware.
+My point is that you claim that if it involves moving around wires, it's hardware and not software, and thus that many early computers (See Plugboard#Early computers) had no software. This is demonstrably untrue. Consider three computers: Computer A is programmed with a plugboard. Computer B is programmed by a paper tape which makes the exact same connections that the plugboard made. Computer C is programmed with a C program that controls relays that makes the exact same connections that the plugboard made. Clearly all three are programmable, and in all three cases the pattern of connections is software.
+In your haste to be pedantic about hardware and software, you have lost sight of the fact that the hardware/software distinction isn't nearly as old as the computer is and that some of the early examples that are being deleted are from an era where there was no such distinction. --Guy Macon (talk) 17:42, 2 November 2018 (UTC)
+Yes, there are ways to do the same thing in both hardware and software, but that doesn't make the distinction between them any less clear. If you feel strongly about this, I suggest your first step should be modifying the software article, which currently defines software as "a collection of data or computer instructions that tell the computer how to work". Korny O'Near (talk) 18:21, 2 November 2018 (UTC)
+Verifiablity is not the same as must be referenced
+WP:V does not state that everything must have a reference. It states that "other people using the encyclopedia can check that the information comes from a reliable source". That is followed up with "All material in Wikipedia mainspace, including everything in articles, lists and captions, must be verifiable. All quotations, and any material whose verifiability has been challenged or is likely to be challenged, must include an inline citation that directly supports the material. Any material that needs a source but does not have one may be removed. Please immediately remove contentious material about living people that is unsourced or poorly sourced." And later yet, that you should try to fins a source for the material. Did you do that? I found multiple on my first search. Walter Görlitz (talk) 16:59, 6 September 2018 (UTC)
+
+Removal of unsourced "bugs"
+I agree with the removal of the bugs as they were unsourced. Walter Görlitz (talk) 15:10, 18 September 2018 (UTC)
+
+It's true that they were unsourced, although, to be fair, none of the "in popular culture" bugs, even the valid ones, are sourced as well as they should be, if they're sourced at all. Korny O'Near (talk) 16:17, 18 September 2018 (UTC)
+Remove them all then per WP:V. Walter Görlitz (talk) 17:56, 18 September 2018 (UTC)
+source for etymology
+https://en.oxforddictionaries.com/explore/was-the-first-computer-bug-a-real-insect/ --Espoo (talk) 23:25, 22 April 2019 (UTC)
+
+No author so it's not at all useful. Walter Görlitz (talk) 05:08, 24 April 2019 (UTC)
+The author of the part we would use is the Pall Mall Gazette of 11 March 1889. --Guy Macon (talk) 15:04, 24 April 2019 (UTC)
+But do you have access to the Pall Mall Gazette of March 11, 1889? Walter Görlitz (talk) 05:23, 26 April 2019 (UTC)
+No need. If the 20-volume Oxford English Dictionary quotes the Pall Mall Gazette of 11 March 1889 as saying
+"Mr. Edison, I was informed, had been up the two previous nights discovering 'a bug' in his phonograph - an expression for solving a difficulty, and implying that some imaginary insect has secreted itself inside and is causing all the trouble."
+and lists this as the earliest known use of the word "bug" to indicate a technical problem, the OED is a reliable source for both claims. It's a better source than 90% of the sources used in Wikipedia. --Guy Macon (talk) 08:23, 26 April 2019 (UTC)
